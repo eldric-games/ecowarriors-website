@@ -1,6 +1,6 @@
 README: Eldric Games Project
 About This Project
-This is the source code repository for my Eldric Games portfolio project, a work-in-progress game development showcase. The project demonstrates my game design philosophy through an interactive web experience that feels like navigating a game menu.
+This is the source code repository for my Eldric Games portfolio project, a work-in-progress game development showcase. The project demonstrates my game design philosophy through an interactive experience that feels like navigating a game menu.
 Purpose of This Repository
 This repository serves multiple purposes:
 It's part of my PAT (Portfolio of Achievement and Training) application
